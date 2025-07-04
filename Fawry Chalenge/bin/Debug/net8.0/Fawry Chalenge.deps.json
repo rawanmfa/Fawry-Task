@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fawry Chalenge/1.0.0": {
+        "runtime": {
+          "Fawry Chalenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fawry Chalenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

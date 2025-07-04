@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\bin\Debug\net8.0\Fawry Chalenge.exe
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\bin\Debug\net8.0\Fawry Chalenge.deps.json
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\bin\Debug\net8.0\Fawry Chalenge.runtimeconfig.json
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\bin\Debug\net8.0\Fawry Chalenge.dll
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\bin\Debug\net8.0\Fawry Chalenge.pdb
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.dll
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\refint\Fawry Chalenge.dll
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.pdb
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\Fawry Chalenge.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\route\Fawry\Fawry Chalenge\obj\Debug\net8.0\ref\Fawry Chalenge.dll
